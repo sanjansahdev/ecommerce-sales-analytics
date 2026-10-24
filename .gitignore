@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.vscode/
+data/
+*.tmp
+*.log
+*.pbit.lock
